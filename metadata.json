@@ -1,0 +1,7 @@
+{
+  "name": "PhisherFinder",
+  "description": "Real-time cybersecurity URL link scanner and phishing detection engine with multi-vector threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
