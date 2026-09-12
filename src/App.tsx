@@ -443,7 +443,7 @@ export default function App() {
         <div className="flex items-center justify-center gap-2">
           <ShieldCheck className="w-4 h-4 text-emerald-400" />
           <span className="font-bold text-slate-300">PhisherFinder</span>
-          <span>— Real-Time Cybersecurity URL Threat Scanner</span>
+          <span>— Real-Time Cybersecurity URL Threat Scanner and Developed by Krishna7259</span>
         </div>
         <p className="max-w-md mx-auto text-[11px] text-slate-500">
           Privacy First: URLs are inspected without storing personal user identifiers. Zero association with previous third-party brands.
